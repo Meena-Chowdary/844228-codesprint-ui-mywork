@@ -25,7 +25,7 @@ function validate()
         }
     }
     function myFun(package1){
-        document.getElementById("package").value=package1;
+        document.getElementById("p").value=package1;
         document.getElementById("paisa").value=00;
     }
 
